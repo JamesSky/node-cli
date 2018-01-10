@@ -12,6 +12,10 @@
             }
         },
         {
+            "name": "font",
+            "type": "dir"
+        },
+        {
             "name": "js",
             "type": "dir",
             "child": {
